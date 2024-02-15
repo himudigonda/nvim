@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/himudigonda/.config/nvim/lua/plugins'
+let g:netrw_dirhist_4='/Users/himudigonda/.config/nvim/lua'
+let g:netrw_dirhist_3='/Users/himudigonda/.config/nvim'
+let g:netrw_dirhist_2='/Users/himudigonda/.config/nvim/lua/plugins'
+let g:netrw_dirhist_1='/Users/himudigonda/.config/nvim/lua'
+let g:netrw_dirhist_0='/Users/himudigonda/.config/nvim'
+let g:netrw_dirhist_9='/Users/himudigonda/.config/nvim/lua/plugins'
+let g:netrw_dirhist_8='/Users/himudigonda/.config/nvim/lua'
+let g:netrw_dirhist_7='/Users/himudigonda/.config/nvim'
+let g:netrw_dirhist_6='/Users/himudigonda/.config/nvim/lua/plugins'
