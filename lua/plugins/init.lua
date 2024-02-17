@@ -1,7 +1,7 @@
 -- All plugins have lazy=true by default,to load a plugin on startup just lazy=false
 -- List of all default plugins & their definitions
 local default_plugins = {
-  
+  {'akinsho/toggleterm.nvim', version = "*", config = true, lazy = false}, 
   {"nvim-lua/plenary.nvim", lazy = false},
   {"majutsushi/tagbar", lazy = false},
   {
