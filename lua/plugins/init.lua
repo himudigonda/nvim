@@ -13,6 +13,14 @@ local default_plugins = {
   },
 
   {
+    "akinsho/toggleterm.nvim",
+    config = function()
+      require("toggleterm").setup()
+    end,
+    lazy = false
+  },
+
+  {
     "NvChad/ui",
     branch = "v2.0",
     lazy = false,
