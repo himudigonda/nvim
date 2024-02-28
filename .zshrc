@@ -120,7 +120,8 @@ alias gpsh="git push"
 alias gpul="git pull"
 alias gf="git fetch -ap"
 alias gb="git branch $1"
-
+alias sol="ssh hmudigon@sol.asu.edu"
+alias anvil="ssh -l x-hmudigonda anvil.rcac.purdue.edu"
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
